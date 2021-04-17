@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robo-friends/static/css/main.c85690e5.chunk.css",
+    "main.js": "/Robo-friends/static/js/main.5abe3120.chunk.js",
+    "main.js.map": "/Robo-friends/static/js/main.5abe3120.chunk.js.map",
+    "runtime-main.js": "/Robo-friends/static/js/runtime-main.ef668065.js",
+    "runtime-main.js.map": "/Robo-friends/static/js/runtime-main.ef668065.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Robo-friends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.753c7e80.chunk.js": "/Robo-friends/static/js/2.753c7e80.chunk.js",
+    "static/js/2.753c7e80.chunk.js.map": "/Robo-friends/static/js/2.753c7e80.chunk.js.map",
+    "static/js/3.288728af.chunk.js": "/Robo-friends/static/js/3.288728af.chunk.js",
+    "static/js/3.288728af.chunk.js.map": "/Robo-friends/static/js/3.288728af.chunk.js.map",
+    "index.html": "/Robo-friends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Robo-friends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.c85690e5.chunk.css.map": "/Robo-friends/static/css/main.c85690e5.chunk.css.map",
+    "static/js/2.753c7e80.chunk.js.LICENSE.txt": "/Robo-friends/static/js/2.753c7e80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef668065.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.753c7e80.chunk.js",
+    "static/css/main.c85690e5.chunk.css",
+    "static/js/main.5abe3120.chunk.js"
+  ]
+}
